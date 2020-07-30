@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-The videos went a little too fast, so had to slow down the speed to 0.75 at some times or pause. 
+
 
 ## License
 
